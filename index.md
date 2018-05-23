@@ -1,6 +1,6 @@
 ## Welcome to the CBP - Cross-Border Control website!
 
-> It takes a network to beat a network. :fire:
+It takes a network to beat a network. :fire:
 
 ### Markdown
 
